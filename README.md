@@ -31,7 +31,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 
 ## Download and installation
 
-1. Download **`MowlView.zip`** from the [latest release](https://github.com/naderi/mowlview/releases/latest).
+1. Download **`MowlView.zip`** from the [latest release](https://github.com/naderi/tc-mowlview/releases/latest).
 2. Open the ZIP in Total Commander (Enter on the file) and confirm the question whether to install the plugin.
 
 Settings are stored in `MowlView.ini` next to the plugin.
