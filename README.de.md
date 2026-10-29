@@ -25,7 +25,8 @@ Nativ und schnell: keine Browser-Engine, keine Laufzeitumgebung, nichts zu insta
 - Text von rechts nach links (Arabisch, Hebräisch, Persisch) wird pro Absatz erkannt und bekommt eine eigene Schrift
 - Klickbare Links: Sprünge im Dokument, andere Dateien und Webadressen; *Gehe zu Überschrift* im Kontextmenü
 - Wählbare Schriftarten für Text, Text von rechts nach links und Code
-- Helles und dunkles Design: automatisch wie Windows oder fest – im Windows-11-Look
+- Helles und dunkles Design: automatisch wie Windows, wie Total Commander oder fest – im Windows-11-Look
+- Knöpfe oben, in der Statusleiste oder ausgeblendet (*Knöpfe* im Kontextmenü)
 - Statusleiste mit Format, Kodierung und Wort- bzw. Zeilenzahl
 - Kodierungen: UTF-8, UTF-16 (mit oder ohne BOM), Windows-1252
 - Oberfläche auf Deutsch und Englisch (richtet sich nach der Windows-Sprache)
@@ -48,7 +49,7 @@ Die Einstellungen liegen in `MowlView.ini` neben dem Plugin.
 | F7 | Suchen (Suche des Total Commander) |
 | F1 | Info |
 
-Weitere Optionen – *Design*, *Schriftart*, *Gehe zu Überschrift* – stehen im Kontextmenü (Rechtsklick).
+Weitere Optionen – *Design*, *Knöpfe*, *Schriftart*, *Gehe zu Überschrift* – stehen im Kontextmenü (Rechtsklick).
 
 ## Lizenz
 

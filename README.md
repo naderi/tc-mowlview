@@ -25,7 +25,8 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Right-to-left text (Arabic, Hebrew, Persian) is detected per paragraph and gets its own font
 - Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu
 - Selectable fonts for text, right-to-left text and code
-- Light and dark design: automatic like Windows, or fixed – in the Windows 11 look
+- Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
+- Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
 - Status bar with format, encoding and word or line count
 - Text encodings: UTF-8, UTF-16 (with or without BOM), Windows-1252
 - English and German user interface (follows the Windows language)
@@ -48,7 +49,7 @@ Settings are stored in `MowlView.ini` next to the plugin.
 | F7 | Find (Total Commander's search) |
 | F1 | About |
 
-More options – *Theme*, *Font*, *Go to heading* – are in the context menu (right click).
+More options – *Theme*, *Buttons*, *Font*, *Go to heading* – are in the context menu (right click).
 
 ## License
 
