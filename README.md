@@ -23,7 +23,8 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Flowcharts: Mermaid `flowchart` / `graph` diagrams in `mermaid` code blocks are drawn as pictures – all directions, node shapes, line styles, labels, subgraphs, `style` and `classDef`
 - Pictures from local files: PNG, JPEG, GIF, BMP, TIFF, ICO (WebP/HEIC with the Windows codecs), scaled in high quality
 - Right-to-left text (Arabic, Hebrew, Persian) is detected per paragraph and gets its own font
-- Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu
+- Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu; headings accept an explicit id (`## Title {#my-id}`)
+- Text cursor: switch it on with Ctrl+K or a click into the text, move with the arrow keys, Home/End and Ctrl+arrows, select with Shift
 - Selectable fonts for text, right-to-left text and code
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
 - Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
