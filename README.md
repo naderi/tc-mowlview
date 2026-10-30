@@ -22,8 +22,9 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Syntax highlighting in code blocks (C/C++, C#, Java, JavaScript/TypeScript, Python, Rust, Go, JSON, diff and many more)
 - Flowcharts: Mermaid `flowchart` / `graph` diagrams in `mermaid` code blocks are drawn as pictures – all directions, node shapes, line styles, labels, subgraphs, `style` and `classDef`
 - Pictures from local files: PNG, JPEG, GIF, BMP, TIFF, ICO (WebP/HEIC with the Windows codecs), scaled in high quality
+- Pictures from the internet (`https`): off by default, switch *Pictures from the internet* on in the preview – until then a placeholder with the alt text is shown; the setting is saved
 - Right-to-left text (Arabic, Hebrew, Persian) is detected per paragraph and gets its own font
-- Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu; headings accept an explicit id (`## Title {#my-id}` or `## Title (#my-id)`)
+- Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu; link titles (`[text](url "Title")`) appear as a tooltip; headings accept an explicit id (`## Title {#my-id}` or `## Title (#my-id)`)
 - Text cursor: switch it on with Ctrl+K or a click into the text, move with the arrow keys, Home/End and Ctrl+arrows, select with Shift
 - Selectable fonts for text, right-to-left text and code
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
