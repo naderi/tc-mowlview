@@ -30,6 +30,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
 - Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
 - Status bar with format, encoding and word or line count
+- Printing (File > Print): the rendered document (or the source, in source view) on white paper at print size, broken between lines
 - Text encodings: UTF-8, UTF-16 (with or without BOM), Windows-1252
 - English and German user interface (follows the Windows language)
 
