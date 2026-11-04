@@ -30,7 +30,7 @@ Nativ und schnell: keine Browser-Engine, keine Laufzeitumgebung, nichts zu insta
 - Helles und dunkles Design: automatisch wie Windows, wie Total Commander oder fest – im Windows-11-Look
 - Knöpfe oben, in der Statusleiste oder ausgeblendet (*Knöpfe* im Kontextmenü)
 - Statusleiste mit Format, Kodierung und Wort- bzw. Zeilenzahl
-- Drucken (Datei > Drucken): das gezeigte Dokument (in der Quelltext-Ansicht der Quelltext) auf weißem Papier in Druckgröße, Seitenumbrüche zwischen den Zeilen, mit Seitenzahlen; Papier standardmäßig A4 (das gewählte Papier wird gemerkt, `PaperSize` in `MowlView.ini`: 9 = A4, 1 = Letter); Ränder über das Kontextmenü *Druckränder* oder `PrintMargins` in `MowlView.ini` (mm, ein Wert oder links,oben,rechts,unten); `PrintPageNumbers=0` schaltet die Seitenzahlen aus
+- Drucken (Datei > Drucken): das gezeigte Dokument (in der Quelltext-Ansicht der Quelltext) auf weißem Papier in Druckgröße, Seitenumbrüche zwischen den Zeilen, mit Seitenzahlen; Papier standardmäßig A4 (das gewählte Papier wird gemerkt, `PaperSize` in `MowlView.ini`: 9 = A4, 1 = Letter); Ränder aus den Druckeinstellungen von Total Commander, oder `PrintMargins` in `MowlView.ini` (mm, ein Wert oder links,oben,rechts,unten), um sie zu überschreiben; `PrintPageNumbers=0` schaltet die Seitenzahlen aus
 - Kodierungen: UTF-8, UTF-16 (mit oder ohne BOM), Windows-1252
 - Oberfläche auf Deutsch und Englisch (richtet sich nach der Windows-Sprache)
 
