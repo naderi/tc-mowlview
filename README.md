@@ -30,7 +30,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
 - Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
 - Status bar with format, encoding and word or line count
-- Printing (File > Print): the rendered document (or the source, in source view) on white paper at print size, broken between lines, with page numbers; margins via the context menu *Print margins* or `PrintMargins` in `MowlView.ini` (mm, one value or left,top,right,bottom); `PrintPageNumbers=0` switches the numbers off
+- Printing (File > Print): the rendered document (or the source, in source view) on white paper at print size, broken between lines, with page numbers; paper A4 by default (the paper you choose is remembered, `PaperSize` in `MowlView.ini`: 9 = A4, 1 = Letter); margins via the context menu *Print margins* or `PrintMargins` in `MowlView.ini` (mm, one value or left,top,right,bottom); `PrintPageNumbers=0` switches the numbers off
 - Text encodings: UTF-8, UTF-16 (with or without BOM), Windows-1252
 - English and German user interface (follows the Windows language)
 
