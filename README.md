@@ -28,6 +28,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Text cursor: switch it on with Ctrl+K or a click into the text, move with the arrow keys, Home/End and Ctrl+arrows, select with Shift
 - Selectable fonts for text, right-to-left text and code
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
+- Color schemes: 24 included (Catppuccin, Gruvbox, Solarized, Tokyo Night, One, GitHub and more) in the `Themes` folder, VS Code color theme format; context menu → Color scheme picks one for light and one for dark, your own files are picked up too
 - Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
 - Status bar with format, encoding and word or line count
 - Printing (File > Print): the rendered document (or the source, in source view) on white paper at print size, broken between lines, with page numbers; paper A4 by default (the paper you choose is remembered, `PaperSize` in `MowlView.ini`: 9 = A4, 1 = Letter); margins from Total Commander's print settings, or `PrintMargins` in `MowlView.ini` (mm, one value or left,top,right,bottom) to override them; `PrintPageNumbers=0` switches the numbers off

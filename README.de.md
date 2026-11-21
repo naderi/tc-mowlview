@@ -28,6 +28,7 @@ Nativ und schnell: keine Browser-Engine, keine Laufzeitumgebung, nichts zu insta
 - Textcursor: mit Strg+K oder einem Klick in den Text einschalten, mit Pfeiltasten, Pos1/Ende und Strg+Pfeil bewegen, mit Umschalt markieren
 - Wählbare Schriftarten für Text, Text von rechts nach links und Code
 - Helles und dunkles Design: automatisch wie Windows, wie Total Commander oder fest – im Windows-11-Look
+- Farbschemen: 24 mitgeliefert (Catppuccin, Gruvbox, Solarized, Tokyo Night, One, GitHub u. a.) im Ordner `Themes`, im Format der VS-Code-Farbthemen; Kontextmenü → Farbschema wählt eines für Hell und eines für Dunkel, eigene Dateien werden ebenfalls erkannt
 - Knöpfe oben, in der Statusleiste oder ausgeblendet (*Knöpfe* im Kontextmenü)
 - Statusleiste mit Format, Kodierung und Wort- bzw. Zeilenzahl
 - Drucken (Datei > Drucken): das gezeigte Dokument (in der Quelltext-Ansicht der Quelltext) auf weißem Papier in Druckgröße, Seitenumbrüche zwischen den Zeilen, mit Seitenzahlen; Papier standardmäßig A4 (das gewählte Papier wird gemerkt, `PaperSize` in `MowlView.ini`: 9 = A4, 1 = Letter); Ränder aus den Druckeinstellungen von Total Commander, oder `PrintMargins` in `MowlView.ini` (mm, ein Wert oder links,oben,rechts,unten), um sie zu überschreiben; `PrintPageNumbers=0` schaltet die Seitenzahlen aus
