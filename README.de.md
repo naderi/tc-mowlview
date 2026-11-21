@@ -27,6 +27,7 @@ Nativ und schnell: keine Browser-Engine, keine Laufzeitumgebung, nichts zu insta
 - Klickbare Links: Sprünge im Dokument, andere Dateien und Webadressen; *Gehe zu Überschrift* im Kontextmenü; Link- und Bild-Titel (`[Text](url "Titel")`, `![Alt](src "Titel")`) erscheinen als Tooltip; Überschriften akzeptieren eine eigene ID (`## Titel {#meine-id}` oder `## Titel (#meine-id)`)
 - Textcursor: mit Strg+K oder einem Klick in den Text einschalten, mit Pfeiltasten, Pos1/Ende und Strg+Pfeil bewegen, mit Umschalt markieren
 - Wählbare Schriftarten für Text, Text von rechts nach links und Code
+- Code-Ansicht: Zeilen von rechts nach links werden korrekt dargestellt und markiert; optionale Knöpfe für links- bzw. rechtsbündige Ausrichtung (Kontextmenü → *Ausrichtungsknöpfe (Code)*)
 - Helles und dunkles Design: automatisch wie Windows, wie Total Commander oder fest – im Windows-11-Look
 - Farbschemen: 24 mitgeliefert (Catppuccin, Gruvbox, Solarized, Tokyo Night, One, GitHub u. a.) im Ordner `Themes`, im Format der VS-Code-Farbthemen; Kontextmenü → Farbschema wählt eines für Hell und eines für Dunkel, eigene Dateien werden ebenfalls erkannt
 - Knöpfe oben, in der Statusleiste oder ausgeblendet (*Knöpfe* im Kontextmenü)

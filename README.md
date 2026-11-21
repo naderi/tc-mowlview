@@ -27,6 +27,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - Clickable links: jumps within the document, other files and web addresses; *Go to heading* in the context menu; link and picture titles (`[text](url "Title")`, `![alt](src "Title")`) appear as a tooltip; headings accept an explicit id (`## Title {#my-id}` or `## Title (#my-id)`)
 - Text cursor: switch it on with Ctrl+K or a click into the text, move with the arrow keys, Home/End and Ctrl+arrows, select with Shift
 - Selectable fonts for text, right-to-left text and code
+- Code view: right-to-left lines are laid out and selected correctly; optional toolbar buttons for left / right alignment (context menu → *Alignment buttons (code)*)
 - Light and dark design: automatic like Windows, like Total Commander, or fixed – in the Windows 11 look
 - Color schemes: 24 included (Catppuccin, Gruvbox, Solarized, Tokyo Night, One, GitHub and more) in the `Themes` folder, VS Code color theme format; context menu → Color scheme picks one for light and one for dark, your own files are picked up too
 - Buttons at the top, in the status bar or hidden (*Buttons* in the context menu)
