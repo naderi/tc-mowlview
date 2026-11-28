@@ -20,7 +20,7 @@ Nativ und schnell: keine Browser-Engine, keine Laufzeitumgebung, nichts zu insta
 - CommonMark mit den GitHub-Erweiterungen: Tabellen, Aufgabenlisten, Durchstreichen, Autolinks, Fußnoten und Hinweisboxen (NOTE, TIP, IMPORTANT, WARNING, CAUTION)
 - Inline-HTML und HTML-Blöcke: `kbd`, `sub`, `sup`, zentrierte Bilder und aufklappbare `details`-Abschnitte
 - Syntaxhervorhebung in Codeblöcken (C/C++, C#, Java, JavaScript/TypeScript, Python, Rust, Go, JSON, diff und viele mehr)
-- Flussdiagramme: Mermaid-Diagramme (`flowchart` / `graph`) in `mermaid`-Codeblöcken werden als Bild gezeichnet – alle Richtungen, Knotenformen, Linienarten, Beschriftungen, Untergruppen, `style` und `classDef`
+- Diagramme: Mermaid in `mermaid`-Codeblöcken wird als Bild gezeichnet – Flussdiagramme (alle Richtungen, Knotenformen, Linienarten, Beschriftungen, Untergruppen, `style` und `classDef`), Sequenz-, Klassen-, Zustands-, Entity-Relationship-, Gantt-, Timeline-, Git-Graph-, Mindmap- und Kreisdiagramme
 - Bilder aus lokalen Dateien: PNG, JPEG, GIF, BMP, TIFF, ICO (WebP/HEIC mit den Windows-Codecs), in hoher Qualität skaliert
 - Bilder aus dem Internet (`https`): standardmäßig aus, mit dem Schalter *Bilder aus dem Internet* in der Ansicht einschaltbar – bis dahin steht ein Platzhalter mit dem Alternativtext da; SVG-Bilder wie Badges werden ebenfalls gezeichnet; die Einstellung wird gespeichert
 - Text von rechts nach links (Arabisch, Hebräisch, Persisch) wird pro Absatz erkannt und bekommt eine eigene Schrift

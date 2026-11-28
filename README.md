@@ -20,7 +20,7 @@ Native and fast: no browser engine, no runtime, nothing to install besides the p
 - CommonMark with the GitHub extensions: tables, task lists, strikethrough, autolinks, footnotes and alerts (NOTE, TIP, IMPORTANT, WARNING, CAUTION)
 - Inline HTML and HTML blocks: `kbd`, `sub`, `sup`, centred images and collapsible `details` sections
 - Syntax highlighting in code blocks (C/C++, C#, Java, JavaScript/TypeScript, Python, Rust, Go, JSON, diff and many more)
-- Flowcharts: Mermaid `flowchart` / `graph` diagrams in `mermaid` code blocks are drawn as pictures – all directions, node shapes, line styles, labels, subgraphs, `style` and `classDef`
+- Diagrams: Mermaid in `mermaid` code blocks is drawn as pictures – flowcharts (all directions, node shapes, line styles, labels, subgraphs, `style` and `classDef`), sequence, class, state, entity relationship, Gantt, timeline, Git graph, mind map and pie diagrams
 - Pictures from local files: PNG, JPEG, GIF, BMP, TIFF, ICO (WebP/HEIC with the Windows codecs), scaled in high quality
 - Pictures from the internet (`https`): off by default, switch *Pictures from the internet* on in the preview – until then a placeholder with the alt text is shown; SVG pictures such as badges are drawn too; the setting is saved
 - Right-to-left text (Arabic, Hebrew, Persian) is detected per paragraph and gets its own font
